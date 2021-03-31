@@ -7,3 +7,8 @@ The main drive behind this project is to study the impact of animacy information
 
 # Framework
 In general the framework of the codebase follows two publications:
+
+The jupyter notebook needs sufficient GPU processing power thus we only tested it on google collab. Google collab allows the use of a GPU environment and therefore greatly increases the runtime. 
+
+# Installation/How to use?
+To use the jupyter notebook we recommend to download the github file.  Next it should be uploaded and unzipped in your preferred location on your *google drive*. Then the notebook should be accessible by going to : . All other usage steps are explained within the notebook itself.
